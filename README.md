@@ -1,7 +1,7 @@
 ## Ejecutar el proyecto.
 
 ### Requisitos
-1. MariaDB 10.4.17
+1. MariaDB 10.4.17 (MySQL 5.7)
 2. JDK 11
 3. Git
 
